@@ -1,5 +1,5 @@
 # ChatBot with Response System
-
+![ChatBot](chatbot.jpg)
 This repository contains a versatile and interactive chatbot with a response system implemented in Python. The chatbot is designed to engage in conversations, provide responses, and handle various user inputs.
 
 ## Overview
@@ -29,12 +29,12 @@ Clone this GitHub repository to your local machine using the following command:
 git clone https://github.com/Shubham-Balgotra/ChatBot-with-Response-System.git
 ```
 
-Step 2: Run the ChatBot:
+**Step 2: Run the ChatBot**
 Navigate to the repository directory and run the Python script to start the chatbot:
-
-Step 3: Got to 
 cd ChatBot-with-Response-System
+```bash
 python chatbot.py
+```
 
 # Interact with the ChatBot:
 Type your messages and press Enter to receive responses from the chatbot.

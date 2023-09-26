@@ -51,30 +51,39 @@ The chatbot code is implemented in Python and relies only on the Python standard
 # Result/Outcome conversation
 
 You: Hi there
+
 Jarvis: Hello!
 
 You: Whats up
+
 Jarvis: I'm doing fine, and you?
 
 You: Great
+
 Jarvis: That's good to hear. I hope you have a great day! :-)
 
 You: Do you sing?
+
 Jarvis: No, as an assistant, I can't sing.
 
 You: Do you eat?
+
 Jarvis: I don't like eating anything because I'm a bot, obviously!
 
 You: What is the weather out there?
+
 Jarvis: The weather is unpredictable nowadays. Sometimes it's sunny, and sometimes it's raining heavily.
 
 You: Who built you?
+
 Jarvis: I was built by Shubham (AI engineer) using Python v3.11.4.
 
 You: Give some advice.
+
 Jarvis: If I were you, I would go to the internet and type exactly what you wrote there!
 
 You: goodbye
+
 Jarvis: Nice meeting you! Have a good day!
 
 

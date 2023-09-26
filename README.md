@@ -1,5 +1,6 @@
 # ChatBot with Response System
 ![ChatBot](chatbot.jpg)
+
 This repository contains a versatile and interactive chatbot with a response system implemented in Python. The chatbot is designed to engage in conversations, provide responses, and handle various user inputs.
 
 ## Overview

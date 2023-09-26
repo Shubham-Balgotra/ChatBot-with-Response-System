@@ -39,8 +39,26 @@ You can customize the chatbot's responses by modifying the code in the check_all
 # Dependencies
 The chatbot code is implemented in Python and relies only on the Python standard library. It does not have external dependencies, making it straightforward to run and deploy.
 
-# Result/Outcome
+# Result/Outcome conversation
 
+You: Hi there
+Jarvis: Hello!
+You: Whats up
+Jarvis: I'm doing fine, and you?
+You: Great
+Jarvis: Thats good to hear. I hope you be great every day :-)
+You: Do you sing?
+Jarvis: No, as an assistant I can't sing.
+You: Do you eat?
+Jarvis: I don't like eating anything because I'm a bot obviously!
+You: What is the weather out there?
+Jarvis: The weather is unpredictable now a days. Sometime its sunny and sometime its rain heavily.
+You: Who build you?
+Jarvis: I was build by Shubham (AI engineer) using python v3.11.4.
+You: Give some advice.
+Jarvis: If I were you, I would go to the internet and type exactly what you wrote there!
+You: goodbye
+Jarvis: Nice meeting you! Have a good day!
 
 
 
